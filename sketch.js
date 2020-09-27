@@ -207,6 +207,7 @@ function draw() {
     enemy52.display();
     enemy53.display();
     enemy54.display();
+    enemy55.display();
     enemy56.display();
     enemy57.display();
     enemy58.display();
